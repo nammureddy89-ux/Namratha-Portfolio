@@ -164,7 +164,7 @@ always means a missing comma after a `}` or a missing quote mark. Compare your
 block with the example above, or use "Undo a mistake" (section 6).
 
 ### Replace your résumé
-1. Name your new PDF exactly **`resume.pdf`**.
+1. Name your new PDF exactly **`Namratha_Product Manager_Resume.pdf`**.
 2. Open the `documents` folder on GitHub → **Add file** → **Upload files**.
 3. Drag it in → **Commit changes**. It replaces the old one.
 
