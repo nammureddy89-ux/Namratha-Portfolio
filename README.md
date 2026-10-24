@@ -2,7 +2,7 @@
 
 A one-page Product Manager portfolio, hosted free on GitHub Pages.
 
-**Live site:** https://nammureddy89-ux.github.io](https://nammureddy89-ux.github.io/Namratha-Portfolio/
+**Live site:** https://nammureddy89-ux.github.io/Namratha-Portfolio/
 
 This guide is written for non-developers. You only ever need to touch the
 **content**, **images** and **documents** folders.
