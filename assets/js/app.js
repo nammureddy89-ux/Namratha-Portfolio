@@ -45,7 +45,7 @@
 
   $("logo").innerHTML = UI.escapeText(initials) + "<span>.</span>";
   $("eyebrow").textContent = UI.hasText(profile.eyebrow) ? "— " + profile.eyebrow : "";
-  $("name").innerHTML = UI.escapeText(first) + (last ? "<br><em>" + UI.escapeText(last) + ".</em>" : "");
+  $("name").innerHTML = UI.escapeText(first) + (last ? "<br><em>" + UI.escapeText(last) + "</em>" : "");
   $("intro").innerHTML = UI.richText(profile.intro);
   if (!UI.hasText(profile.intro)) $("intro").hidden = true;
 
