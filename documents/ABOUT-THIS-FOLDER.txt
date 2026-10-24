@@ -1,0 +1,12 @@
+PDF FILES
+
+Your résumé:
+  Upload it here named exactly  resume.pdf
+  To replace it, upload a new PDF with the same name.
+  Until it's here, the "Download résumé" button is hidden on the live site.
+
+Case studies:
+  saathi-case-study.pdf is the Saathi deck. Replace it the same way.
+  For a new project, upload its PDF here and link to it in
+  content/projects.js, for example:
+  { label: "View case study (PDF)", url: "documents/my-project.pdf" },

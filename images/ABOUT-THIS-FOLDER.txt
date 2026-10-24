@@ -1,0 +1,11 @@
+PHOTOS AND PICTURES
+
+Your photo:
+  Upload it here named  photo.jpg  (photo.jpeg or photo.png also work).
+  To replace it, upload a new file with the same name.
+  A portrait-shaped photo works best. It's cropped to fit automatically.
+  Until a photo is here, the site shows your initials.
+
+Project pictures (optional):
+  Upload them here, then add the file name to the project's "image"
+  line in content/projects.js, for example:  image: "images/saathi.png",

@@ -1,0 +1,89 @@
+<!doctype html>
+<!--
+  PAGE LAYOUT
+  This file only sets out the order of the sections. Your text lives in the
+  "content" folder, so you don't need to edit this file to update your portfolio.
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Namratha Kankanala — Associate Product Manager</title>
+  <meta name="description" content="Associate Product Manager building B2B SaaS, FinTech and AI-powered workflow automation products.">
+  <meta property="og:title" content="Namratha Kankanala — Associate Product Manager">
+  <meta property="og:description" content="Associate Product Manager building B2B SaaS, FinTech and AI-powered workflow automation products.">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23171512'/%3E%3Ctext x='50%25' y='56%25' text-anchor='middle' dominant-baseline='middle' font-family='Georgia,serif' font-size='30' fill='%23fcfaf7'%3ENK%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <p class="content-notice" id="content-notice" role="alert" hidden></p>
+
+  <header class="site-header" id="header">
+    <div class="wrap">
+      <a class="logo" href="#top" id="logo"></a>
+      <nav class="nav" id="nav" aria-label="Main"></nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- About me -->
+    <section class="wrap hero">
+      <div class="portrait" id="portrait"></div>
+      <div class="hero-main">
+        <p class="eyebrow" id="eyebrow"></p>
+        <h1 id="name"></h1>
+        <p class="intro" id="intro"></p>
+        <div class="actions" id="hero-actions"></div>
+      </div>
+    </section>
+
+    <!-- Projects: hidden until "View my work" is clicked -->
+    <section class="section work" id="work" hidden aria-label="My work">
+      <div class="wrap project-list" id="project-list"></div>
+    </section>
+
+    <!-- Experience and awards -->
+    <section class="section section-alt" id="career">
+      <div class="wrap split">
+        <div class="col-main" id="experience">
+          <h2>Experience</h2>
+          <ol id="jobs"></ol>
+        </div>
+        <div class="col-side" id="awards">
+          <h2>Recognition</h2>
+          <ul class="awards" id="award-list"></ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Contact -->
+  <footer class="contact" id="contact">
+    <div class="wrap">
+      <div class="contact-row">
+        <h2 id="contact-headline"></h2>
+        <div class="actions" id="contact-actions"></div>
+      </div>
+      <div class="footer-row">
+        <p id="copyright"></p>
+        <p id="footer-note"></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Your content -->
+  <script>window.PORTFOLIO = {};</script>
+  <script src="content/profile.js"></script>
+  <script src="content/experience.js"></script>
+  <script src="content/awards.js"></script>
+  <script src="content/projects.js"></script>
+
+  <!-- Design components and page assembly -->
+  <script src="assets/js/components.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
