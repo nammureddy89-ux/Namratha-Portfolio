@@ -31,9 +31,9 @@ PORTFOLIO.profile = {
   // Shown only if you have at least one project in content/projects.js.
   workButton: "View my work",
 
-  email: "[your email]",
+  email: "namrathakankanala1012@gmail.com",
   linkedin: "https://www.linkedin.com/in/namratha-reddy-kankanala-93244a14a",
-  github: "https://github.com/nammureddy89-ux",
+  github: "",
 
   contactHeadline: "Building something thoughtful?",
   contactHighlight: "Let's talk.",
