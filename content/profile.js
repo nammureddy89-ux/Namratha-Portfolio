@@ -26,7 +26,7 @@ PORTFOLIO.profile = {
   // Your résumé lives in the "documents" folder.
   // Replace it by uploading a new PDF with the same name.
   resume: "documents/resume.pdf",
-  resumeButton: "Download résumé",
+  resumeButton: "Download resume",
 
   // Shown only if you have at least one project in content/projects.js.
   workButton: "View my work",
