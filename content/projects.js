@@ -49,7 +49,7 @@ PORTFOLIO.projects = [
       "An AI copilot that takes procurement from RFx to vendor award, with no spreadsheet needed.",
     image: "",
     links: [
-      { label: "Open Saathi", url: "https://quotepilot-ai-lemon.vercel.app/" },
+      { label: "Open QuotePilot", url: "https://quotepilot-ai-lemon.vercel.app/" },
       { label: "View case study (PDF)", url: "documents/QuotePilot AI.pdf" },
     ],
     highlights: [],
