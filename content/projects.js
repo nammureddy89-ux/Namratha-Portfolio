@@ -40,6 +40,21 @@ PORTFOLIO.projects = [
     highlights: [],
     caseStudy: [],
   },
+
+   {
+    label: "Featured work · Built solo",
+    title: "QuotePilot AI",
+    tagline: "Kill the Quote Spreadsheet",
+    summary:
+      "An AI copilot that takes procurement from RFx to vendor award, with no spreadsheet needed.",
+    image: "",
+    links: [
+      { label: "Open Saathi", url: "https://quotepilot-ai-lemon.vercel.app/" },
+      { label: "View case study (PDF)", url: "documents/QuotePilot AI.pdf" },
+    ],
+    highlights: [],
+    caseStudy: [],
+  },
 ];
 
 /*
